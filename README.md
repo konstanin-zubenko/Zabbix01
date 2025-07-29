@@ -69,8 +69,9 @@ apt update'
 
 'Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером: Команда: tail -f /var/log/zabbix/zabbix_agentd.log 
 ![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/53.png)
-![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/54.png)
+![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/54.png)'
 
-'Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные: Latest data.png`
+'Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные: 
+![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/54.png)`
 
-'Приложите в файл README.md текст использованных команд в GitHub: git clone https://github.com/KargapoltcevKS/-Zabbix-.git git commit -m "Zabbix" git push main'
+'Приложите в файл README.md текст использованных команд в GitHub: git clone https://github.com/konstanin-zubenko/Zabbix01.git git commit -m "Zabbix" git push main'
