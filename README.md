@@ -65,11 +65,11 @@ apt update'
 'СКРИНШОТЫ'
 
 'Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу: 
-![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/52.png)
+![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/56.png)
 
 'Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером: Команда: tail -f /var/log/zabbix/zabbix_agentd.log 
-![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/53.png)
-![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/54.png)'
+![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/57.png)
+![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/58.png)'
 
 'Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные: 
 ![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/54.png)`
