@@ -72,6 +72,6 @@ apt update'
 ![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/58.png)'
 
 'Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные: 
-![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/54.png)`
+![alt text](https://github.com/konstanin-zubenko/Zabbix01/blob/main/img/55.png)`
 
 'Приложите в файл README.md текст использованных команд в GitHub: git clone https://github.com/konstanin-zubenko/Zabbix01.git git commit -m "Zabbix" git push main'
